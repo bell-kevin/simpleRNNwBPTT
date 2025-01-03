@@ -2,6 +2,18 @@
 
 # 
 
+1. Forward pass
+    
+2. Loss function (MSE)
+    
+3. Backward pass (BPTT)
+    
+4. A single training step
+
+Note: This code is for educational purposes to illustrate how RNNs and BPTT work under the hood. For real projects, consider using frameworks like PyTorch or TensorFlow, which handle all of this automatically and efficiently.
+
+https://colab.research.google.com/
+
 --------------------------------------------------------------------------------------------------------------------------
 == We're Using GitHub Under Protest ==
 
